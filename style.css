@@ -1,0 +1,191 @@
+
+.bismillah {
+  text-align: center;
+  font-size: 24px;
+  color: #444;
+  font-weight: 700;
+  margin: 14px 0 20px;
+  line-height: 1.7;
+  font-family: 'Amiri', serif;
+}
+
+body {
+    direction: rtl;
+    text-align: right;
+    margin: 0;
+    padding: 0;
+    line-height: 1.5;
+}
+
+.intro {
+    max-width: 900px;
+    margin: 20px auto;
+    padding: 0 16px;
+    font-size: 18px;
+    line-height: 1.4;
+}
+
+.intro p {
+    margin-bottom: 14px;
+}
+
+.source {
+    font-size: 15px;
+    opacity: 0.8;
+}
+
+
+img {
+  max-width: 100%;
+  height: auto;
+}         
+
+.p{
+     color:black;
+  }
+.hp{
+      color:green;
+      background-repeat:no-repeat;
+      font-size : 1.5em ; 
+      font-weight : bold ; 
+      border: 5px solid #488922;
+      /* border: 5px solid #d4af37; */
+      border-radius : 10px ; 
+      padding : 10px ; 
+  }
+.h1{
+      text-align:center;  
+      background-color: #d9bb00;
+      font-weight:1000; 
+      border: 20px double #488922;
+      border-radius:60px;
+}
+body{
+
+    background-color: #f1f6f2;
+    font-size:1.3em;
+}
+        
+.bld{
+    font-weight:900;
+    color :#0b2782;
+}    
+      
+.sp{
+    color : navy;
+    border : 5px solid #c0a620;   
+    padding :8px;     
+    background-color: white;  
+    border-radius:15px;
+}       
+     
+.bord{
+    border: 10px double #488922;
+    border-right:20px solid #488922;
+    background:#efe22875;
+    padding:5px;
+    border-radius:15px;
+}
+a:link {
+  color: green;
+  background-color: transparent;
+  text-decoration: none;
+}
+a:visited {
+  color:navy;
+  background-color: transparent;
+  text-decoration: none;  
+}
+a:hover{         
+    color : deeppink ; 
+    text-decoration : underline ; 
+  }
+
+.n{
+  position: relative;     
+  z-index: 1;             
+  writing-mode: horizontal-tb;
+  text-orientation: mixed;
+  transform: none;
+  color: rgba(255, 255, 245, 0.85);
+  text-shadow: 0 1px 3px rgba(0,0,0,0.6);
+  font-size: 1em;
+  font-weight: bold;
+  line-height: 1.2;
+  text-align: right;      
+}
+p.d{
+   color : navy; 
+   text-align : center; 
+   font-size : 1em ; 
+   text-decoration : underline ; 
+}
+
+div.d{
+  width: 600px;
+  max-width: 100%;
+  margin: 2rem auto;   
+  position: relative;
+  padding: 1rem;
+  overflow: hidden;    
+  
+}
+ 
+div.d::before{
+  content: "";
+  position: absolute;
+  inset: 0;                 
+  background-image: url("nawawi.jpg");
+  background-repeat: no-repeat;
+  background-position: center center;   
+  background-size: contain;              
+  opacity: 1;
+  z-index: 0;                             
+}
+.hp {
+    color: green;
+    background-repeat: no-repeat;
+    font-size: 0.9em;
+    font-weight: bold;
+    border: 5px solid #488922;
+    border-radius: 10px;
+    padding: 8px 10px;
+    line-height: 1.5;
+}
+
+.hp a {
+    font-size: 1em;
+    margin: 0 2px;
+    display: inline;
+    line-height: 1.5;
+}
+
+ .hp {
+    color: #999;
+     border: 5px solid #f1c40f; 
+ } 
+
+.hp a {
+    color: green;
+    text-decoration: none;
+}
+
+div.d {
+    width: 100%;
+    max-width: 400px;
+    height: 180px;
+    margin: 2rem auto;
+    position: relative;
+    overflow: hidden;
+}
+
+
+
+
+
+
+
+    
+    
+
+  
